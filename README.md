@@ -1,3 +1,3 @@
 # aryan-demo
 This is my first Git Repostitroy <br>
-Autor - Aryan Srivastava
+<B>Autor - Aryan Srivastava<B>
